@@ -1,5 +1,8 @@
 ##介绍	
 纯C#写的通用socket服务端/客户端程序,支持协议扩展。	
+![服务端](https://github.com/tinygg/Socket.Net/blob/master/image/server.png?raw=true)
+![客户端](https://github.com/tinygg/Socket.Net/blob/master/image/client.png?raw=true)
+![消息窗](https://github.com/tinygg/Socket.Net/blob/master/image/msg.png?raw=true)
 
 ##功能
 多人聊天、客户端消息弹出、即时查询	
@@ -13,7 +16,7 @@
 2015.11.6  弹出界面，回复消息	
 
 2015.11.7  添加协议概念，添加根据协议构造消息、解析协议消息方法。	
-![协议](https://www.baidu.com/img/bd_logo1.png)  
+![协议](https://github.com/tinygg/Socket.Net/blob/master/image/protocol.png?raw=true)
 byte[10] 命令区  
 byte[150] 发送者信息区(包含认证信息)  
 byte[150] 接收者信息区  
