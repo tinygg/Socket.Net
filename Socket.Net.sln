@@ -11,8 +11,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Socket.Net.Protocol", "Sock
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{063D25F6-BB5A-4A4E-8049-D7BCD4CF168B}"
 	ProjectSection(SolutionItems) = preProject
-		C:\Users\tinypc\Desktop\protocol.png = C:\Users\tinypc\Desktop\protocol.png
+		image\client.png = image\client.png
+		image\msg.png = image\msg.png
+		image\protocol.png = image\protocol.png
 		readme.md = readme.md
+		image\server.png = image\server.png
 	EndProjectSection
 EndProject
 Global

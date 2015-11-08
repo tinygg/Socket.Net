@@ -38,7 +38,7 @@
             // 
             // connBtn
             // 
-            this.connBtn.Location = new System.Drawing.Point(152, 10);
+            this.connBtn.Location = new System.Drawing.Point(216, 10);
             this.connBtn.Name = "connBtn";
             this.connBtn.Size = new System.Drawing.Size(75, 23);
             this.connBtn.TabIndex = 0;
@@ -50,7 +50,7 @@
             // 
             this.nameBox.Location = new System.Drawing.Point(47, 12);
             this.nameBox.Name = "nameBox";
-            this.nameBox.Size = new System.Drawing.Size(90, 21);
+            this.nameBox.Size = new System.Drawing.Size(163, 21);
             this.nameBox.TabIndex = 1;
             // 
             // label1
@@ -64,17 +64,17 @@
             // 
             // queryBox
             // 
-            this.queryBox.Location = new System.Drawing.Point(14, 46);
+            this.queryBox.Location = new System.Drawing.Point(47, 46);
             this.queryBox.Name = "queryBox";
-            this.queryBox.Size = new System.Drawing.Size(162, 21);
+            this.queryBox.Size = new System.Drawing.Size(163, 21);
             this.queryBox.TabIndex = 3;
             this.queryBox.TextChanged += new System.EventHandler(this.queryBox_TextChanged);
             // 
             // queryBtn
             // 
-            this.queryBtn.Location = new System.Drawing.Point(182, 46);
+            this.queryBtn.Location = new System.Drawing.Point(216, 44);
             this.queryBtn.Name = "queryBtn";
-            this.queryBtn.Size = new System.Drawing.Size(44, 23);
+            this.queryBtn.Size = new System.Drawing.Size(75, 23);
             this.queryBtn.TabIndex = 5;
             this.queryBtn.Text = "查询";
             this.queryBtn.UseVisualStyleBackColor = true;
@@ -84,7 +84,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(238, 79);
+            this.ClientSize = new System.Drawing.Size(303, 79);
             this.Controls.Add(this.queryBtn);
             this.Controls.Add(this.queryBox);
             this.Controls.Add(this.label1);
