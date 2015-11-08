@@ -1,8 +1,14 @@
 ##介绍	
-纯C#写的通用socket服务端/客户端程序,支持协议扩展。	
-![服务端](https://github.com/tinygg/Socket.Net/blob/master/image/server.png?raw=true)
-![客户端](https://github.com/tinygg/Socket.Net/blob/master/image/client.png?raw=true)
-![消息窗](https://github.com/tinygg/Socket.Net/blob/master/image/msg.png?raw=true)
+纯C#写的通用socket服务端/客户端程序,支持协议扩展。	  
+  
+服务端  
+![服务端](https://github.com/tinygg/Socket.Net/blob/master/image/server.png?raw=true)  
+  
+客户端  
+![客户端](https://github.com/tinygg/Socket.Net/blob/master/image/client.png?raw=true)  
+  
+消息窗口  
+![消息窗](https://github.com/tinygg/Socket.Net/blob/master/image/msg.png?raw=true)  
 
 ##功能
 多人聊天、客户端消息弹出、即时查询	
@@ -31,4 +37,8 @@ byte[any < 65535-10-150-150-4] 消息区(消息长度区指定的长度)
 ##说明  
 代码虽然烂，但还是想开源，希望有人加入。  
 很多地方感觉不懂，希望有人指教,具体的后聊。  
-如果不参与，请不要空泛的JJYY了。
+如果不参与，请不要空泛的GGYY了。
+
+##小工具  
+初期为了方便调试，自己做了个小工具附上。
+[下载](https://github.com/tinygg/Tools.Net/releases/download/V0.1/Convert.zip)
